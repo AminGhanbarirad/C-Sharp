@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week1\W1E3\W1E3\obj\Debug\W1E3.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week1\W1E3\W1E3\obj\Debug\W1E3.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week1\W1E3\W1E3\bin\Debug\W1E3.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week1\W1E3\W1E3\bin\Debug\W1E3.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week1\W1E3\W1E3\bin\Debug\W1E3.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week1\W1E3\W1E3\obj\Debug\W1E3.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week1\W1E3\W1E3\obj\Debug\W1E3.pdb
