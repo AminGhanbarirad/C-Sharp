@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise9_Switch_Case_Calculator\bin\Debug\Week2Exercise9_Switch_Case_Calculator.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise9_Switch_Case_Calculator\bin\Debug\Week2Exercise9_Switch_Case_Calculator.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise9_Switch_Case_Calculator\bin\Debug\Week2Exercise9_Switch_Case_Calculator.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise9_Switch_Case_Calculator\obj\Debug\Week2Exercise9_Switch_Case_Calculator.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise9_Switch_Case_Calculator\obj\Debug\Week2Exercise9_Switch_Case_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise9_Switch_Case_Calculator\obj\Debug\Week2Exercise9_Switch_Case_Calculator.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise9_Switch_Case_Calculator\obj\Debug\Week2Exercise9_Switch_Case_Calculator.pdb
