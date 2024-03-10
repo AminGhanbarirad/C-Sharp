@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ghanb\\Documents\\GitHub\\C-Sharp\\Week3\\Week3Exercise6_Triangle_Validator\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4B5EEE79-94E0-47B8-9B2A-3262EFCF6223}|Week3Exercise6_Triangle_Validator.csproj|c:\\users\\ghanb\\documents\\github\\c-sharp\\week3\\week3exercise6_triangle_validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B5EEE79-94E0-47B8-9B2A-3262EFCF6223}|Week3Exercise6_Triangle_Validator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ghanb\\Documents\\GitHub\\C-Sharp\\Week3\\Week3Exercise6_Triangle_Validator\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ghanb\\Documents\\GitHub\\C-Sharp\\Week3\\Week3Exercise6_Triangle_Validator\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwCgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T20:11:04.76Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

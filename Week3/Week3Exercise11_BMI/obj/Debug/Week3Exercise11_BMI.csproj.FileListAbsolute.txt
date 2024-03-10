@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise11_BMI\bin\Debug\Week3Exercise11_BMI.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise11_BMI\bin\Debug\Week3Exercise11_BMI.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise11_BMI\bin\Debug\Week3Exercise11_BMI.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise11_BMI\obj\Debug\Week3Exercise11_BMI.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise11_BMI\obj\Debug\Week3Exercise11_BMI.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise11_BMI\obj\Debug\Week3Exercise11_BMI.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise11_BMI\obj\Debug\Week3Exercise11_BMI.pdb
