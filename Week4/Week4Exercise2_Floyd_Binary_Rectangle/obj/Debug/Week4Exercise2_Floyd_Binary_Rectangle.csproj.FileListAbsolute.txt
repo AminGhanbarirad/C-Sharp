@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise2_Floyd_Binary_Rectangle\bin\Debug\Week4Exercise2_Floyd_Binary_Rectangle.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise2_Floyd_Binary_Rectangle\bin\Debug\Week4Exercise2_Floyd_Binary_Rectangle.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise2_Floyd_Binary_Rectangle\bin\Debug\Week4Exercise2_Floyd_Binary_Rectangle.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise2_Floyd_Binary_Rectangle\obj\Debug\Week4Exercise2_Floyd_Binary_Rectangle.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise2_Floyd_Binary_Rectangle\obj\Debug\Week4Exercise2_Floyd_Binary_Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise2_Floyd_Binary_Rectangle\obj\Debug\Week4Exercise2_Floyd_Binary_Rectangle.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise2_Floyd_Binary_Rectangle\obj\Debug\Week4Exercise2_Floyd_Binary_Rectangle.pdb
