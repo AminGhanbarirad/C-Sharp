@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise10_Vowels_and_Consonants\bin\Debug\Week2Exercise10_Vowels_and_Consonants.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise10_Vowels_and_Consonants\bin\Debug\Week2Exercise10_Vowels_and_Consonants.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise10_Vowels_and_Consonants\bin\Debug\Week2Exercise10_Vowels_and_Consonants.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise10_Vowels_and_Consonants\obj\Debug\Week2Exercise10_Vowels_and_Consonants.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise10_Vowels_and_Consonants\obj\Debug\Week2Exercise10_Vowels_and_Consonants.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise10_Vowels_and_Consonants\obj\Debug\Week2Exercise10_Vowels_and_Consonants.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise10_Vowels_and_Consonants\obj\Debug\Week2Exercise10_Vowels_and_Consonants.pdb
