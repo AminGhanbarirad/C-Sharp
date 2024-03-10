@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise8_Salary_Tax_Ratio\bin\Debug\Week2Exercise8_Salary_Tax_Ratio.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise8_Salary_Tax_Ratio\bin\Debug\Week2Exercise8_Salary_Tax_Ratio.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise8_Salary_Tax_Ratio\bin\Debug\Week2Exercise8_Salary_Tax_Ratio.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise8_Salary_Tax_Ratio\obj\Debug\Week2Exercise8_Salary_Tax_Ratio.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise8_Salary_Tax_Ratio\obj\Debug\Week2Exercise8_Salary_Tax_Ratio.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise8_Salary_Tax_Ratio\obj\Debug\Week2Exercise8_Salary_Tax_Ratio.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise8_Salary_Tax_Ratio\obj\Debug\Week2Exercise8_Salary_Tax_Ratio.pdb
