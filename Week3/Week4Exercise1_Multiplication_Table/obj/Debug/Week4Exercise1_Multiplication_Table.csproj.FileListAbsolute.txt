@@ -1,7 +1,0 @@
-C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week4Exercise1_Multiplication_Table\bin\Debug\Week4Exercise1_Multiplication_Table.exe.config
-C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week4Exercise1_Multiplication_Table\bin\Debug\Week4Exercise1_Multiplication_Table.exe
-C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week4Exercise1_Multiplication_Table\bin\Debug\Week4Exercise1_Multiplication_Table.pdb
-C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week4Exercise1_Multiplication_Table\obj\Debug\Week4Exercise1_Multiplication_Table.csproj.AssemblyReference.cache
-C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week4Exercise1_Multiplication_Table\obj\Debug\Week4Exercise1_Multiplication_Table.csproj.CoreCompileInputs.cache
-C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week4Exercise1_Multiplication_Table\obj\Debug\Week4Exercise1_Multiplication_Table.exe
-C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week4Exercise1_Multiplication_Table\obj\Debug\Week4Exercise1_Multiplication_Table.pdb
