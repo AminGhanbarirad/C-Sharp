@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise3_Temperature_Conversion\bin\Debug\Week2Exercise3_Temperature_Conversion.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise3_Temperature_Conversion\bin\Debug\Week2Exercise3_Temperature_Conversion.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise3_Temperature_Conversion\bin\Debug\Week2Exercise3_Temperature_Conversion.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise3_Temperature_Conversion\obj\Debug\Week2Exercise3_Temperature_Conversion.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise3_Temperature_Conversion\obj\Debug\Week2Exercise3_Temperature_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise3_Temperature_Conversion\obj\Debug\Week2Exercise3_Temperature_Conversion.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise3_Temperature_Conversion\obj\Debug\Week2Exercise3_Temperature_Conversion.pdb
