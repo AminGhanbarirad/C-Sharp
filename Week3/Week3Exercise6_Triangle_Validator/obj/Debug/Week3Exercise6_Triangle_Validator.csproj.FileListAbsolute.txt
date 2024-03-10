@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise6_Triangle_Validator\bin\Debug\Week3Exercise6_Triangle_Validator.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise6_Triangle_Validator\bin\Debug\Week3Exercise6_Triangle_Validator.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise6_Triangle_Validator\bin\Debug\Week3Exercise6_Triangle_Validator.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise6_Triangle_Validator\obj\Debug\Week3Exercise6_Triangle_Validator.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise6_Triangle_Validator\obj\Debug\Week3Exercise6_Triangle_Validator.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise6_Triangle_Validator\obj\Debug\Week3Exercise6_Triangle_Validator.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise6_Triangle_Validator\obj\Debug\Week3Exercise6_Triangle_Validator.pdb
