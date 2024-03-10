@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ghanb\\Documents\\GitHub\\C-Sharp\\Week2\\W2E1\\Week2Exercise1_Some_Math_Operations\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2D51FFDF-440F-4EFE-8C3B-5977D8FF20D5}|Week2Exercise1_Some_Math_Operations.csproj|c:\\users\\ghanb\\documents\\github\\c-sharp\\week2\\w2e1\\week2exercise1_some_math_operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D51FFDF-440F-4EFE-8C3B-5977D8FF20D5}|Week2Exercise1_Some_Math_Operations.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ghanb\\Documents\\GitHub\\C-Sharp\\Week2\\W2E1\\Week2Exercise1_Some_Math_Operations\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ghanb\\Documents\\GitHub\\C-Sharp\\Week2\\W2E1\\Week2Exercise1_Some_Math_Operations\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBIAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T06:05:28.265Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

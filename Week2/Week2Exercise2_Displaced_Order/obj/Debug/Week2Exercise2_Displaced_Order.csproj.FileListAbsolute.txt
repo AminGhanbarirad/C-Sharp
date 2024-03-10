@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise2_Displaced_Order\bin\Debug\Week2Exercise2_Displaced_Order.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise2_Displaced_Order\bin\Debug\Week2Exercise2_Displaced_Order.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise2_Displaced_Order\bin\Debug\Week2Exercise2_Displaced_Order.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise2_Displaced_Order\obj\Debug\Week2Exercise2_Displaced_Order.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise2_Displaced_Order\obj\Debug\Week2Exercise2_Displaced_Order.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise2_Displaced_Order\obj\Debug\Week2Exercise2_Displaced_Order.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise2_Displaced_Order\obj\Debug\Week2Exercise2_Displaced_Order.pdb
