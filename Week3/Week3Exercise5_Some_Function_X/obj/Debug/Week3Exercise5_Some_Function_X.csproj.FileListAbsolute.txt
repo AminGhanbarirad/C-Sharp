@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise5_Some_Function_X\bin\Debug\Week3Exercise5_Some_Function_X.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise5_Some_Function_X\bin\Debug\Week3Exercise5_Some_Function_X.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise5_Some_Function_X\bin\Debug\Week3Exercise5_Some_Function_X.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise5_Some_Function_X\obj\Debug\Week3Exercise5_Some_Function_X.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise5_Some_Function_X\obj\Debug\Week3Exercise5_Some_Function_X.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise5_Some_Function_X\obj\Debug\Week3Exercise5_Some_Function_X.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise5_Some_Function_X\obj\Debug\Week3Exercise5_Some_Function_X.pdb
