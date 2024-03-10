@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week2Exercise3_Grade_Converter\bin\Debug\Week2Exercise3_Grade_Converter.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week2Exercise3_Grade_Converter\bin\Debug\Week2Exercise3_Grade_Converter.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week2Exercise3_Grade_Converter\bin\Debug\Week2Exercise3_Grade_Converter.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week2Exercise3_Grade_Converter\obj\Debug\Week2Exercise3_Grade_Converter.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week2Exercise3_Grade_Converter\obj\Debug\Week2Exercise3_Grade_Converter.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week2Exercise3_Grade_Converter\obj\Debug\Week2Exercise3_Grade_Converter.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week2Exercise3_Grade_Converter\obj\Debug\Week2Exercise3_Grade_Converter.pdb
