@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Wee3Exercise2_Triangle_Type_Identifier\bin\Debug\Wee3Exercise2_Triangle_Type_Identifier.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Wee3Exercise2_Triangle_Type_Identifier\bin\Debug\Wee3Exercise2_Triangle_Type_Identifier.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Wee3Exercise2_Triangle_Type_Identifier\bin\Debug\Wee3Exercise2_Triangle_Type_Identifier.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Wee3Exercise2_Triangle_Type_Identifier\obj\Debug\Wee3Exercise2_Triangle_Type_Identifier.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Wee3Exercise2_Triangle_Type_Identifier\obj\Debug\Wee3Exercise2_Triangle_Type_Identifier.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Wee3Exercise2_Triangle_Type_Identifier\obj\Debug\Wee3Exercise2_Triangle_Type_Identifier.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Wee3Exercise2_Triangle_Type_Identifier\obj\Debug\Wee3Exercise2_Triangle_Type_Identifier.pdb
