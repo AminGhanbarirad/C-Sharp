@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise4_Convert_Float_to_Other_Data_Types\bin\Debug\Week2Exercise4_Convert_Float_to_Other_Data_Types.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise4_Convert_Float_to_Other_Data_Types\bin\Debug\Week2Exercise4_Convert_Float_to_Other_Data_Types.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise4_Convert_Float_to_Other_Data_Types\bin\Debug\Week2Exercise4_Convert_Float_to_Other_Data_Types.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise4_Convert_Float_to_Other_Data_Types\obj\Debug\Week2Exercise4_Convert_Float_to_Other_Data_Types.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise4_Convert_Float_to_Other_Data_Types\obj\Debug\Week2Exercise4_Convert_Float_to_Other_Data_Types.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise4_Convert_Float_to_Other_Data_Types\obj\Debug\Week2Exercise4_Convert_Float_to_Other_Data_Types.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise4_Convert_Float_to_Other_Data_Types\obj\Debug\Week2Exercise4_Convert_Float_to_Other_Data_Types.pdb
