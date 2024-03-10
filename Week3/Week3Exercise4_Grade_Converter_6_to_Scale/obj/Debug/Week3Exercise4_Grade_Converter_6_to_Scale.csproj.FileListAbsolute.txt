@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise4_Grade_Converter_6_to_Scale\bin\Debug\Week3Exercise4_Grade_Converter_6_to_Scale.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise4_Grade_Converter_6_to_Scale\bin\Debug\Week3Exercise4_Grade_Converter_6_to_Scale.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise4_Grade_Converter_6_to_Scale\bin\Debug\Week3Exercise4_Grade_Converter_6_to_Scale.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise4_Grade_Converter_6_to_Scale\obj\Debug\Week3Exercise4_Grade_Converter_6_to_Scale.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise4_Grade_Converter_6_to_Scale\obj\Debug\Week3Exercise4_Grade_Converter_6_to_Scale.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise4_Grade_Converter_6_to_Scale\obj\Debug\Week3Exercise4_Grade_Converter_6_to_Scale.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise4_Grade_Converter_6_to_Scale\obj\Debug\Week3Exercise4_Grade_Converter_6_to_Scale.pdb

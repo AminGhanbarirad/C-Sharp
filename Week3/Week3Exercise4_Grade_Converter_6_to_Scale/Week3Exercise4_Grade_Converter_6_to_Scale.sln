@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week3Exercise4_Grade_Converter_6_to_Scale", "Week3Exercise4_Grade_Converter_6_to_Scale.csproj", "{EA507FE2-F1CD-47C3-BF9D-9FA0C41B6E1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA507FE2-F1CD-47C3-BF9D-9FA0C41B6E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA507FE2-F1CD-47C3-BF9D-9FA0C41B6E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA507FE2-F1CD-47C3-BF9D-9FA0C41B6E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA507FE2-F1CD-47C3-BF9D-9FA0C41B6E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E19EBC-586E-480C-A121-131EE02DC6BD}
+	EndGlobalSection
+EndGlobal
