@@ -5,3 +5,10 @@ C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\W2E1\Week2Exercise1_Some_Math_Oper
 C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\W2E1\Week2Exercise1_Some_Math_Operations\obj\Debug\Week2Exercise1_Some_Math_Operations.csproj.CoreCompileInputs.cache
 C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\W2E1\Week2Exercise1_Some_Math_Operations\obj\Debug\Week2Exercise1_Some_Math_Operations.exe
 C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\W2E1\Week2Exercise1_Some_Math_Operations\obj\Debug\Week2Exercise1_Some_Math_Operations.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise1_Some_Math_Operations\bin\Debug\Week2Exercise1_Some_Math_Operations.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise1_Some_Math_Operations\bin\Debug\Week2Exercise1_Some_Math_Operations.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise1_Some_Math_Operations\bin\Debug\Week2Exercise1_Some_Math_Operations.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise1_Some_Math_Operations\obj\Debug\Week2Exercise1_Some_Math_Operations.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise1_Some_Math_Operations\obj\Debug\Week2Exercise1_Some_Math_Operations.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise1_Some_Math_Operations\obj\Debug\Week2Exercise1_Some_Math_Operations.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week2\Week2Exercise1_Some_Math_Operations\obj\Debug\Week2Exercise1_Some_Math_Operations.pdb
