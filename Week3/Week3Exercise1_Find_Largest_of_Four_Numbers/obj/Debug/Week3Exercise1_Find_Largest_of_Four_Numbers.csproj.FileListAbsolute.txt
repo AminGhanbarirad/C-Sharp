@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise1_Find_Largest_of_Four_Numbers\bin\Debug\Week3Exercise1_Find_Largest_of_Four_Numbers.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise1_Find_Largest_of_Four_Numbers\bin\Debug\Week3Exercise1_Find_Largest_of_Four_Numbers.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise1_Find_Largest_of_Four_Numbers\bin\Debug\Week3Exercise1_Find_Largest_of_Four_Numbers.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise1_Find_Largest_of_Four_Numbers\obj\Debug\Week3Exercise1_Find_Largest_of_Four_Numbers.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise1_Find_Largest_of_Four_Numbers\obj\Debug\Week3Exercise1_Find_Largest_of_Four_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise1_Find_Largest_of_Four_Numbers\obj\Debug\Week3Exercise1_Find_Largest_of_Four_Numbers.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week3\Week3Exercise1_Find_Largest_of_Four_Numbers\obj\Debug\Week3Exercise1_Find_Largest_of_Four_Numbers.pdb
