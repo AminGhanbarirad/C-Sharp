@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise3_Number_Series\bin\Debug\Week4Exercise3_Number_Series.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise3_Number_Series\bin\Debug\Week4Exercise3_Number_Series.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise3_Number_Series\bin\Debug\Week4Exercise3_Number_Series.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise3_Number_Series\obj\Debug\Week4Exercise3_Number_Series.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise3_Number_Series\obj\Debug\Week4Exercise3_Number_Series.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise3_Number_Series\obj\Debug\Week4Exercise3_Number_Series.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise3_Number_Series\obj\Debug\Week4Exercise3_Number_Series.pdb
