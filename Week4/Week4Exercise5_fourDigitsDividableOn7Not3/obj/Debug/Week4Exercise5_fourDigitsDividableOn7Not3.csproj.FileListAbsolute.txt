@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise5_fourDigitsDividableOn7Not3\bin\Debug\Week4Exercise5_fourDigitsDividableOn7Not3.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise5_fourDigitsDividableOn7Not3\bin\Debug\Week4Exercise5_fourDigitsDividableOn7Not3.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise5_fourDigitsDividableOn7Not3\bin\Debug\Week4Exercise5_fourDigitsDividableOn7Not3.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise5_fourDigitsDividableOn7Not3\obj\Debug\Week4Exercise5_fourDigitsDividableOn7Not3.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise5_fourDigitsDividableOn7Not3\obj\Debug\Week4Exercise5_fourDigitsDividableOn7Not3.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise5_fourDigitsDividableOn7Not3\obj\Debug\Week4Exercise5_fourDigitsDividableOn7Not3.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise5_fourDigitsDividableOn7Not3\obj\Debug\Week4Exercise5_fourDigitsDividableOn7Not3.pdb
