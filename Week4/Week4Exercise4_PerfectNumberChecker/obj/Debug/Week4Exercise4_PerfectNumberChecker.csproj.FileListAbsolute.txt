@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise4_PerfectNumberChecker\bin\Debug\Week4Exercise4_PerfectNumberChecker.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise4_PerfectNumberChecker\bin\Debug\Week4Exercise4_PerfectNumberChecker.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise4_PerfectNumberChecker\bin\Debug\Week4Exercise4_PerfectNumberChecker.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise4_PerfectNumberChecker\obj\Debug\Week4Exercise4_PerfectNumberChecker.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise4_PerfectNumberChecker\obj\Debug\Week4Exercise4_PerfectNumberChecker.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise4_PerfectNumberChecker\obj\Debug\Week4Exercise4_PerfectNumberChecker.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise4_PerfectNumberChecker\obj\Debug\Week4Exercise4_PerfectNumberChecker.pdb
