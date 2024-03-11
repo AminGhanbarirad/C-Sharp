@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise6_Divisor\bin\Debug\Week4Exercise6_Divisor.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise6_Divisor\bin\Debug\Week4Exercise6_Divisor.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise6_Divisor\bin\Debug\Week4Exercise6_Divisor.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise6_Divisor\obj\Debug\Week4Exercise6_Divisor.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise6_Divisor\obj\Debug\Week4Exercise6_Divisor.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise6_Divisor\obj\Debug\Week4Exercise6_Divisor.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise6_Divisor\obj\Debug\Week4Exercise6_Divisor.pdb
