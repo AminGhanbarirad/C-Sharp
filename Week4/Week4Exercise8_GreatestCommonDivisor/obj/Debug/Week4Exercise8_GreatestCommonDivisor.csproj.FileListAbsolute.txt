@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise8_GreatestCommonDivisor\bin\Debug\Week4Exercise8_GreatestCommonDivisor.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise8_GreatestCommonDivisor\bin\Debug\Week4Exercise8_GreatestCommonDivisor.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise8_GreatestCommonDivisor\bin\Debug\Week4Exercise8_GreatestCommonDivisor.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise8_GreatestCommonDivisor\obj\Debug\Week4Exercise8_GreatestCommonDivisor.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise8_GreatestCommonDivisor\obj\Debug\Week4Exercise8_GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise8_GreatestCommonDivisor\obj\Debug\Week4Exercise8_GreatestCommonDivisor.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise8_GreatestCommonDivisor\obj\Debug\Week4Exercise8_GreatestCommonDivisor.pdb
