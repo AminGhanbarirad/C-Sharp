@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise14_HarshadOrNivenNumber2Digits\bin\Debug\Week4Exercise14_HarshadOrNivenNumber2Digits.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise14_HarshadOrNivenNumber2Digits\bin\Debug\Week4Exercise14_HarshadOrNivenNumber2Digits.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise14_HarshadOrNivenNumber2Digits\bin\Debug\Week4Exercise14_HarshadOrNivenNumber2Digits.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise14_HarshadOrNivenNumber2Digits\obj\Debug\Week4Exercise14_HarshadOrNivenNumber2Digits.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise14_HarshadOrNivenNumber2Digits\obj\Debug\Week4Exercise14_HarshadOrNivenNumber2Digits.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise14_HarshadOrNivenNumber2Digits\obj\Debug\Week4Exercise14_HarshadOrNivenNumber2Digits.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise14_HarshadOrNivenNumber2Digits\obj\Debug\Week4Exercise14_HarshadOrNivenNumber2Digits.pdb
