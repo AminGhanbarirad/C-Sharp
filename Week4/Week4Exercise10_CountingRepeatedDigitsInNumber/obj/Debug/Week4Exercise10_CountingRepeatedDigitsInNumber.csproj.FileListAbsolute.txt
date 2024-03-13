@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise10_CountingRepeatedDigitsInNumber\bin\Debug\Week4Exercise10_CountingRepeatedDigitsInNumber.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise10_CountingRepeatedDigitsInNumber\bin\Debug\Week4Exercise10_CountingRepeatedDigitsInNumber.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise10_CountingRepeatedDigitsInNumber\bin\Debug\Week4Exercise10_CountingRepeatedDigitsInNumber.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise10_CountingRepeatedDigitsInNumber\obj\Debug\Week4Exercise10_CountingRepeatedDigitsInNumber.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise10_CountingRepeatedDigitsInNumber\obj\Debug\Week4Exercise10_CountingRepeatedDigitsInNumber.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise10_CountingRepeatedDigitsInNumber\obj\Debug\Week4Exercise10_CountingRepeatedDigitsInNumber.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise10_CountingRepeatedDigitsInNumber\obj\Debug\Week4Exercise10_CountingRepeatedDigitsInNumber.pdb
