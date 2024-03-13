@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise12_CalculateSomeFractionTerms\bin\Debug\Week4Exercise12_CalculateSomeFractionTerms.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise12_CalculateSomeFractionTerms\bin\Debug\Week4Exercise12_CalculateSomeFractionTerms.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise12_CalculateSomeFractionTerms\bin\Debug\Week4Exercise12_CalculateSomeFractionTerms.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise12_CalculateSomeFractionTerms\obj\Debug\Week4Exercise12_CalculateSomeFractionTerms.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise12_CalculateSomeFractionTerms\obj\Debug\Week4Exercise12_CalculateSomeFractionTerms.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise12_CalculateSomeFractionTerms\obj\Debug\Week4Exercise12_CalculateSomeFractionTerms.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise12_CalculateSomeFractionTerms\obj\Debug\Week4Exercise12_CalculateSomeFractionTerms.pdb
