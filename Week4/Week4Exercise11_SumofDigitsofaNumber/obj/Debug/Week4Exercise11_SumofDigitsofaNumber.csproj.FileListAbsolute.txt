@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise11_SumofDigitsofaNumber\bin\Debug\Week4Exercise11_SumofDigitsofaNumber.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise11_SumofDigitsofaNumber\bin\Debug\Week4Exercise11_SumofDigitsofaNumber.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise11_SumofDigitsofaNumber\bin\Debug\Week4Exercise11_SumofDigitsofaNumber.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise11_SumofDigitsofaNumber\obj\Debug\Week4Exercise11_SumofDigitsofaNumber.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise11_SumofDigitsofaNumber\obj\Debug\Week4Exercise11_SumofDigitsofaNumber.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise11_SumofDigitsofaNumber\obj\Debug\Week4Exercise11_SumofDigitsofaNumber.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise11_SumofDigitsofaNumber\obj\Debug\Week4Exercise11_SumofDigitsofaNumber.pdb
