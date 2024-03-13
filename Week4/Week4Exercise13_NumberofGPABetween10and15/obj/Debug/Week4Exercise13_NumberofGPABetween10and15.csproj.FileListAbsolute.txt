@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise13_NumberofGPABetween10and15\bin\Debug\Week4Exercise13_NumberofGPABetween10and15.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise13_NumberofGPABetween10and15\bin\Debug\Week4Exercise13_NumberofGPABetween10and15.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise13_NumberofGPABetween10and15\bin\Debug\Week4Exercise13_NumberofGPABetween10and15.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise13_NumberofGPABetween10and15\obj\Debug\Week4Exercise13_NumberofGPABetween10and15.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise13_NumberofGPABetween10and15\obj\Debug\Week4Exercise13_NumberofGPABetween10and15.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise13_NumberofGPABetween10and15\obj\Debug\Week4Exercise13_NumberofGPABetween10and15.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise13_NumberofGPABetween10and15\obj\Debug\Week4Exercise13_NumberofGPABetween10and15.pdb
