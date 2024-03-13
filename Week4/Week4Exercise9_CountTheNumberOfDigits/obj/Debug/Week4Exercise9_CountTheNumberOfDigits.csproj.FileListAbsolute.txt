@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise9_CountTheNumberOfDigits\bin\Debug\Week4Exercise9_CountTheNumberOfDigits.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise9_CountTheNumberOfDigits\bin\Debug\Week4Exercise9_CountTheNumberOfDigits.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise9_CountTheNumberOfDigits\bin\Debug\Week4Exercise9_CountTheNumberOfDigits.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise9_CountTheNumberOfDigits\obj\Debug\Week4Exercise9_CountTheNumberOfDigits.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise9_CountTheNumberOfDigits\obj\Debug\Week4Exercise9_CountTheNumberOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise9_CountTheNumberOfDigits\obj\Debug\Week4Exercise9_CountTheNumberOfDigits.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise9_CountTheNumberOfDigits\obj\Debug\Week4Exercise9_CountTheNumberOfDigits.pdb
