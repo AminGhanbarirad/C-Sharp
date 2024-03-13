@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise15_ProductOfNumberAndItsReverse\bin\Debug\Week4Exercise15_ProductOfNumberAndItsReverse.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise15_ProductOfNumberAndItsReverse\bin\Debug\Week4Exercise15_ProductOfNumberAndItsReverse.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise15_ProductOfNumberAndItsReverse\bin\Debug\Week4Exercise15_ProductOfNumberAndItsReverse.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise15_ProductOfNumberAndItsReverse\obj\Debug\Week4Exercise15_ProductOfNumberAndItsReverse.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise15_ProductOfNumberAndItsReverse\obj\Debug\Week4Exercise15_ProductOfNumberAndItsReverse.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise15_ProductOfNumberAndItsReverse\obj\Debug\Week4Exercise15_ProductOfNumberAndItsReverse.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise15_ProductOfNumberAndItsReverse\obj\Debug\Week4Exercise15_ProductOfNumberAndItsReverse.pdb
