@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra1_Khayyam'sTriangle\bin\Debug\Week4Extra1_Khayyam'sTriangle.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra1_Khayyam'sTriangle\bin\Debug\Week4Extra1_Khayyam'sTriangle.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra1_Khayyam'sTriangle\bin\Debug\Week4Extra1_Khayyam'sTriangle.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra1_Khayyam'sTriangle\obj\Debug\Week4Extra1_Khayyam'sTriangle.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra1_Khayyam'sTriangle\obj\Debug\Week4Extra1_Khayyam'sTriangle.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra1_Khayyam'sTriangle\obj\Debug\Week4Extra1_Khayyam'sTriangle.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra1_Khayyam'sTriangle\obj\Debug\Week4Extra1_Khayyam'sTriangle.pdb
