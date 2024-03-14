@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise17_IllustratingUsingAsterisks\bin\Debug\Week4Exercise17_IllustratingUsingAsterisks.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise17_IllustratingUsingAsterisks\bin\Debug\Week4Exercise17_IllustratingUsingAsterisks.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise17_IllustratingUsingAsterisks\bin\Debug\Week4Exercise17_IllustratingUsingAsterisks.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise17_IllustratingUsingAsterisks\obj\Debug\Week4Exercise17_IllustratingUsingAsterisks.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise17_IllustratingUsingAsterisks\obj\Debug\Week4Exercise17_IllustratingUsingAsterisks.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise17_IllustratingUsingAsterisks\obj\Debug\Week4Exercise17_IllustratingUsingAsterisks.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise17_IllustratingUsingAsterisks\obj\Debug\Week4Exercise17_IllustratingUsingAsterisks.pdb
