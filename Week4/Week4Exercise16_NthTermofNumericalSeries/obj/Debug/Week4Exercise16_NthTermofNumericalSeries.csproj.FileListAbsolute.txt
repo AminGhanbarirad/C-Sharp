@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise16_NthTermofNumericalSeries\bin\Debug\Week4Exercise16_NthTermofNumericalSeries.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise16_NthTermofNumericalSeries\bin\Debug\Week4Exercise16_NthTermofNumericalSeries.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise16_NthTermofNumericalSeries\bin\Debug\Week4Exercise16_NthTermofNumericalSeries.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise16_NthTermofNumericalSeries\obj\Debug\Week4Exercise16_NthTermofNumericalSeries.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise16_NthTermofNumericalSeries\obj\Debug\Week4Exercise16_NthTermofNumericalSeries.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise16_NthTermofNumericalSeries\obj\Debug\Week4Exercise16_NthTermofNumericalSeries.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise16_NthTermofNumericalSeries\obj\Debug\Week4Exercise16_NthTermofNumericalSeries.pdb
