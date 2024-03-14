@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise18_FourDigitPrimeNumbers\bin\Debug\Week4Exercise18_FourDigitPrimeNumbers.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise18_FourDigitPrimeNumbers\bin\Debug\Week4Exercise18_FourDigitPrimeNumbers.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise18_FourDigitPrimeNumbers\bin\Debug\Week4Exercise18_FourDigitPrimeNumbers.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise18_FourDigitPrimeNumbers\obj\Debug\Week4Exercise18_FourDigitPrimeNumbers.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise18_FourDigitPrimeNumbers\obj\Debug\Week4Exercise18_FourDigitPrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise18_FourDigitPrimeNumbers\obj\Debug\Week4Exercise18_FourDigitPrimeNumbers.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Exercise18_FourDigitPrimeNumbers\obj\Debug\Week4Exercise18_FourDigitPrimeNumbers.pdb
