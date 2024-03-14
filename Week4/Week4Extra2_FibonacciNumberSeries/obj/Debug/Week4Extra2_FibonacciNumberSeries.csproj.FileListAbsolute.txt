@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra2_FibonacciNumberSeries\bin\Debug\Week4Extra2_FibonacciNumberSeries.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra2_FibonacciNumberSeries\bin\Debug\Week4Extra2_FibonacciNumberSeries.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra2_FibonacciNumberSeries\bin\Debug\Week4Extra2_FibonacciNumberSeries.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra2_FibonacciNumberSeries\obj\Debug\Week4Extra2_FibonacciNumberSeries.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra2_FibonacciNumberSeries\obj\Debug\Week4Extra2_FibonacciNumberSeries.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra2_FibonacciNumberSeries\obj\Debug\Week4Extra2_FibonacciNumberSeries.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra2_FibonacciNumberSeries\obj\Debug\Week4Extra2_FibonacciNumberSeries.pdb
