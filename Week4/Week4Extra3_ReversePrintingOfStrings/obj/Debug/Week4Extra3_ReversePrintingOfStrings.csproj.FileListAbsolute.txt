@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra3_ReversePrintingOfStrings\bin\Debug\Week4Extra3_ReversePrintingOfStrings.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra3_ReversePrintingOfStrings\bin\Debug\Week4Extra3_ReversePrintingOfStrings.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra3_ReversePrintingOfStrings\bin\Debug\Week4Extra3_ReversePrintingOfStrings.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra3_ReversePrintingOfStrings\obj\Debug\Week4Extra3_ReversePrintingOfStrings.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra3_ReversePrintingOfStrings\obj\Debug\Week4Extra3_ReversePrintingOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra3_ReversePrintingOfStrings\obj\Debug\Week4Extra3_ReversePrintingOfStrings.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week4\Week4Extra3_ReversePrintingOfStrings\obj\Debug\Week4Extra3_ReversePrintingOfStrings.pdb
