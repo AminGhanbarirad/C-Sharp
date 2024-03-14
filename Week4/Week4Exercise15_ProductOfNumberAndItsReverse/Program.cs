@@ -16,14 +16,17 @@ namespace Week4Exercise15_ProductOfNumberAndItsReverse
             int l = CountTheNumberOfDigits(x);
             Console.WriteLine("Length of number: {0}", l);
 
+            double reverse = 0;
             double product = 0;
             int temp = x;
 
             for (int i = 1; i <= l; i++)
             {
+                reverse += (temp % 10) * Math.Pow(10, (l - i));
                 product += x * (temp % 10) * Math.Pow(10, (l - i));
                 temp /= 10;
             }
+            Console.WriteLine("Reverse is: {0}", reverse);
             Console.WriteLine("Product of number and its reverse is: {0}", product);
             Console.ReadKey();
         }
