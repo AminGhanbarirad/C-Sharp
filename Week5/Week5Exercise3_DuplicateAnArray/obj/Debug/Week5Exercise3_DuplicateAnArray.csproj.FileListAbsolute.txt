@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise3_DuplicateAnArray\bin\Debug\Week5Exercise3_DuplicateAnArray.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise3_DuplicateAnArray\bin\Debug\Week5Exercise3_DuplicateAnArray.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise3_DuplicateAnArray\bin\Debug\Week5Exercise3_DuplicateAnArray.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise3_DuplicateAnArray\obj\Debug\Week5Exercise3_DuplicateAnArray.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise3_DuplicateAnArray\obj\Debug\Week5Exercise3_DuplicateAnArray.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise3_DuplicateAnArray\obj\Debug\Week5Exercise3_DuplicateAnArray.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise3_DuplicateAnArray\obj\Debug\Week5Exercise3_DuplicateAnArray.pdb
