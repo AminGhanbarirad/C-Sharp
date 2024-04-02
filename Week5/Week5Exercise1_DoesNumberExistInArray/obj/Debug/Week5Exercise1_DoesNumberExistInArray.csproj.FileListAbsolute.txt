@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise1_DoesNumberExistInArray\bin\Debug\Week5Exercise1_DoesNumberExistInArray.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise1_DoesNumberExistInArray\bin\Debug\Week5Exercise1_DoesNumberExistInArray.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise1_DoesNumberExistInArray\bin\Debug\Week5Exercise1_DoesNumberExistInArray.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise1_DoesNumberExistInArray\obj\Debug\Week5Exercise1_DoesNumberExistInArray.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise1_DoesNumberExistInArray\obj\Debug\Week5Exercise1_DoesNumberExistInArray.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise1_DoesNumberExistInArray\obj\Debug\Week5Exercise1_DoesNumberExistInArray.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise1_DoesNumberExistInArray\obj\Debug\Week5Exercise1_DoesNumberExistInArray.pdb
