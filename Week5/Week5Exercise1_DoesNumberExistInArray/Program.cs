@@ -10,27 +10,31 @@ namespace Week5Exercise1_DoesNumberExistInArray
     {
         static void Main(string[] args)
         {
-            int[] PrimeNmbers = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97};
+            int[] PrimeNumbers = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97};
             
             Console.WriteLine("Enter a number from 1 to 100 to check if it is Prime or Not! :");
-            int n = int.Parse(Console.ReadLine());
+            int num = int.Parse(Console.ReadLine());
 
             bool isPrime = false;
+            
+            int index = -1;
 
-            foreach (int i in PrimeNmbers)
+            for (int i = 0; i < PrimeNumbers.Length; i++)
             {
-                if (n == i)
+                if (PrimeNumbers[i] == num)
                 {
                     isPrime = true;
+                    index = i;
+                    break;
                 }
             }
             if (isPrime)
             {
-                Console.WriteLine("{0} is Prime! ", n);
+                Console.WriteLine("{0} is Prime and its index is: {1}", num, index);
             }
             else
             {
-                Console.WriteLine("{0} is Not Prime! ", n);
+                Console.WriteLine("{0} is Not Prime! ", num);
             }
             Console.ReadKey();
         }
