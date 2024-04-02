@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise2_DeleteExistedNumberFromArray\bin\Debug\Week5Exercise2_DeleteExistedNumberFromArray.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise2_DeleteExistedNumberFromArray\bin\Debug\Week5Exercise2_DeleteExistedNumberFromArray.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise2_DeleteExistedNumberFromArray\bin\Debug\Week5Exercise2_DeleteExistedNumberFromArray.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise2_DeleteExistedNumberFromArray\obj\Debug\Week5Exercise2_DeleteExistedNumberFromArray.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise2_DeleteExistedNumberFromArray\obj\Debug\Week5Exercise2_DeleteExistedNumberFromArray.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise2_DeleteExistedNumberFromArray\obj\Debug\Week5Exercise2_DeleteExistedNumberFromArray.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise2_DeleteExistedNumberFromArray\obj\Debug\Week5Exercise2_DeleteExistedNumberFromArray.pdb
