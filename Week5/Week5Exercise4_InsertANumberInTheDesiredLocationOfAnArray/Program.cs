@@ -10,33 +10,36 @@ namespace Week5Exercise4_InsertANumberInTheDesiredLocationOfAnArray
     {
         static void Main(string[] args)
         {
-            int[] Numbers = new int[20];
-            for (int i = 0; i < Numbers.Length; i++)
+            int[] numbers = new int[5] { 1, 3, 5, 7, 9 };
+
+            // دریافت عدد و مکان مورد نظر از کاربر
+            Console.Write("Num: ");
+            int num = int.Parse(Console.ReadLine());
+            Console.Write("Place: ");
+            int index = int.Parse(Console.ReadLine());
+
+            // درج عدد در آرایه
+            if (index >= 0 && index < numbers.Length)
             {
-                Numbers[i] = i + 1;
+                // جابجایی عناصر آرایه
+                for (int i = numbers.Length - 1; i >= index; i--)
+                {
+                    numbers[i + 1] = numbers[i];
+                }
+
+                // درج عدد در مکان مورد نظر
+                numbers[index] = num;
+
+                // چاپ آرایه جدید
+                Console.WriteLine("آرایه جدید:");
+                foreach (int n in numbers)
+                {
+                    Console.Write(n + " ");
+                }
             }
-            Console.WriteLine("The Orginal Array is:");
-            foreach (int n in Numbers)
+            else
             {
-                Console.Write(n + ", ");
-            }
-            Console.WriteLine("");
-
-
-            Console.WriteLine("Enter The Desired Number You want to add: ");
-            int DesiredNum = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Enter The Desired Number Place in Array(Valid Index 0 to 19): ");
-            int DesiredNumIndex = int.Parse(Console.ReadLine());
-
-            if (DesiredNumIndex  < 0 || DesiredNumIndex > 19) { Console.WriteLine("Enter Valid Index 0 to 19"); }
-
-            Numbers[DesiredNumIndex] = DesiredNum;
-
-            Console.WriteLine("The Updated Array is:");
-            foreach (int n in Numbers)
-            {
-                Console.Write(n + ", ");
+                Console.WriteLine("مکان مورد نظر نامعتبر است!");
             }
 
             Console.ReadKey();
