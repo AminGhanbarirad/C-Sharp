@@ -45,14 +45,14 @@ namespace Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight
         }
         static void Main(string[] args)
         {
-            //
+            
             int[] numbers = new int[50];
             Random random = new Random();
             for (int i = 0; i < numbers.Length; i++)
             {
                 numbers[i] = random.Next(0, 2);
             }
-            //
+            
             Console.WriteLine("Orginal Array Whitout Sorting Zeros:");
             PrintArrays P1 = new PrintArrays(numbers);
             P1.Print();
@@ -75,7 +75,6 @@ namespace Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight
                 {
                     if (i != j)
                     {
-                        // جابجایی عناصر
                         int temp = arr[i];
                         arr[i] = arr[j];
                         arr[j] = temp;
