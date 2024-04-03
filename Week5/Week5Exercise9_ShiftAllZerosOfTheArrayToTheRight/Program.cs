@@ -28,20 +28,23 @@ namespace Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight
     }
     internal class Program
     {
-        static bool AreEqual(int[] arr1, int[] arr2)
+        static void ShiftZerosToRight(int[] arr)
         {
-            if (arr1.Length != arr2.Length)
-                return false;
-
-            for (int i = 0; i < arr1.Length; i++)
+            int j = 0;
+            for (int i = 0; i < arr.Length; i++)
             {
-                if (arr1[i] != arr2[i])
+                if (arr[i] != 0)
                 {
-                    return false;
+                    if (i != j)
+                    {
+                        int temp = arr[i];
+                        arr[i] = arr[j];
+                        arr[j] = temp;
+                    }
+                    j++;
                 }
             }
-            
-            return true;
+
         }
         static void Main(string[] args)
         {
@@ -66,23 +69,6 @@ namespace Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight
             Console.ReadKey();
         }
 
-        static void ShiftZerosToRight(int[] arr)
-        {
-            int j = 0;
-            for (int i = 0; i < arr.Length; i++)
-            {
-                if (arr[i] != 0)
-                {
-                    if (i != j)
-                    {
-                        int temp = arr[i];
-                        arr[i] = arr[j];
-                        arr[j] = temp;
-                    }
-                    j++;
-                }
-            }
 
-        }
     }
 }
