@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise7_RemoveDuplicateValuesFromAnArray\bin\Debug\Week5Exercise7_RemoveDuplicateValuesFromAnArray.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise7_RemoveDuplicateValuesFromAnArray\bin\Debug\Week5Exercise7_RemoveDuplicateValuesFromAnArray.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise7_RemoveDuplicateValuesFromAnArray\bin\Debug\Week5Exercise7_RemoveDuplicateValuesFromAnArray.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise7_RemoveDuplicateValuesFromAnArray\obj\Debug\Week5Exercise7_RemoveDuplicateValuesFromAnArray.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise7_RemoveDuplicateValuesFromAnArray\obj\Debug\Week5Exercise7_RemoveDuplicateValuesFromAnArray.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise7_RemoveDuplicateValuesFromAnArray\obj\Debug\Week5Exercise7_RemoveDuplicateValuesFromAnArray.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise7_RemoveDuplicateValuesFromAnArray\obj\Debug\Week5Exercise7_RemoveDuplicateValuesFromAnArray.pdb
