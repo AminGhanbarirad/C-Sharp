@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight\bin\Debug\Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight\bin\Debug\Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight\bin\Debug\Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight\obj\Debug\Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight\obj\Debug\Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight\obj\Debug\Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight\obj\Debug\Week5Exercise9_ShiftAllZerosOfTheArrayToTheRight.pdb
