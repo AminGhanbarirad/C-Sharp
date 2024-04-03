@@ -1,0 +1,7 @@
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise8_CheckingTheEqualityOfTwoArrays\bin\Debug\Week5Exercise8_CheckingTheEqualityOfTwoArrays.exe.config
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise8_CheckingTheEqualityOfTwoArrays\bin\Debug\Week5Exercise8_CheckingTheEqualityOfTwoArrays.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise8_CheckingTheEqualityOfTwoArrays\bin\Debug\Week5Exercise8_CheckingTheEqualityOfTwoArrays.pdb
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise8_CheckingTheEqualityOfTwoArrays\obj\Debug\Week5Exercise8_CheckingTheEqualityOfTwoArrays.csproj.AssemblyReference.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise8_CheckingTheEqualityOfTwoArrays\obj\Debug\Week5Exercise8_CheckingTheEqualityOfTwoArrays.csproj.CoreCompileInputs.cache
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise8_CheckingTheEqualityOfTwoArrays\obj\Debug\Week5Exercise8_CheckingTheEqualityOfTwoArrays.exe
+C:\Users\ghanb\Documents\GitHub\C-Sharp\Week5\Week5Exercise8_CheckingTheEqualityOfTwoArrays\obj\Debug\Week5Exercise8_CheckingTheEqualityOfTwoArrays.pdb
